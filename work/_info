@@ -1,0 +1,347 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/model_test
+T_opt
+!s110 1511090555
+VP^Bm9FA04H96J2=`mjUQ]0
+04 8 4 work inst_rom fast 0
+=1-a08cfd351b76-5a11697b-2b6-61f4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.4;61
+R0
+T_opt1
+!s110 1511192812
+VSnNS^FGkS0gQ53UNfDn6V1
+04 16 4 work mips_min_sopc_tb fast 0
+=1-a08cfd351b76-5a12f8eb-23d-43b8
+R1
+n@_opt1
+R2
+vex
+Z3 !s110 1511192798
+!i10b 1
+!s100 60mk>_D>6Qa0mzd=9`lg<0
+IY1@@LGIF5m9I8=z716eOW3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dC:/Users/shaoz/Desktop/mips
+w1392896488
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex.v
+Z6 L0 35
+Z7 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1511192798.765000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vex_mem
+R3
+!i10b 1
+!s100 BkSADUPLSl9cR8Q8SSj`71
+IM`[nzXFDRRZ;V5MbBGE_W2
+R4
+R5
+w1392891308
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex_mem.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex_mem.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192798.953000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/ex_mem.v|
+!i113 0
+R8
+vid
+Z9 !s110 1511192799
+!i10b 1
+!s100 ICjLNGH:;7gVBUYXSaGb12
+Iiec<QlAUhIAB53Ibdf=1E0
+R4
+R5
+w1511192793
+8C:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\id.v
+FC:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\id.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.093000
+!s107 defines.v|C:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\id.v|
+!i113 0
+R8
+vid_ex
+R9
+!i10b 1
+!s100 hhb[BXk`HX5XGFcm]UElf3
+IJ5bScCnQR^06Kj=<PJk>Z2
+R4
+R5
+w1392895330
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/id_ex.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/id_ex.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.226000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/id_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/id_ex.v|
+!i113 0
+R8
+vif_id
+R9
+!i10b 1
+!s100 >W3QG;Y7lkI5dUR23Am?C1
+I?8TK=VWcz6bVmHh6K09Hc3
+R4
+R5
+w1392891094
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/if_id.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/if_id.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.381000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/if_id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/if_id.v|
+!i113 0
+R8
+vinst_rom
+R9
+!i10b 1
+!s100 B61BV1PoH1U4hb[eIacoJ1
+IMlWZUEzJHIH@bW2n4[K2T2
+R4
+R5
+w1396145518
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/inst_rom.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/inst_rom.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.509000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/inst_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/inst_rom.v|
+!i113 0
+R8
+vmem
+R9
+!i10b 1
+!s100 dKIEgC3]56a5Q^7[b9K7`1
+I:8YAcAbI^Jo8]P6[VFHAn3
+R4
+R5
+w1392891390
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.633000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem.v|
+!i113 0
+R8
+vmem_wb
+R9
+!i10b 1
+!s100 K>NV]WiWM_j?U9dl5]KVi1
+I7kbgLPWGWDc7Cd=8:]7AE1
+R4
+R5
+w1392896564
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem_wb.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem_wb.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.770000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem_wb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/mem_wb.v|
+!i113 0
+R8
+vmips
+Z10 !s110 1511091137
+!i10b 1
+!s100 SWLzgfdQ0icO@z7fTfUOh3
+IFa_JODbDFd[SHLJh_d2=11
+R4
+R5
+w1511091130
+8C:/Users/shaoz/Desktop/mips/mips.v
+FC:/Users/shaoz/Desktop/mips/mips.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1511091137.138000
+!s107 defines.v|C:/Users/shaoz/Desktop/mips/mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/mips/mips.v|
+!i113 0
+R8
+vmips_min_sopc
+R10
+!i10b 1
+!s100 9:E[oF=QCPIEIzR;XPR?A0
+Id^=IW[XJR^>T]L:d`l9Fe0
+R4
+R5
+w1511091096
+8C:/Users/shaoz/Desktop/mips/mips_min_sopc.v
+FC:/Users/shaoz/Desktop/mips/mips_min_sopc.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1511091137.249000
+!s107 defines.v|C:/Users/shaoz/Desktop/mips/mips_min_sopc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/mips/mips_min_sopc.v|
+!i113 0
+R8
+vmips_min_sopc_tb
+R10
+!i10b 1
+!s100 U[DM;6@k@ZfNi`ZcT9iUf0
+IFI@NYE@6[4hmL7@eimMEj0
+R4
+R5
+w1511090297
+8C:/Users/shaoz/Desktop/mips/mips_min_sopc_tb.v
+FC:/Users/shaoz/Desktop/mips/mips_min_sopc_tb.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1511091137.351000
+!s107 defines.v|C:/Users/shaoz/Desktop/mips/mips_min_sopc_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/mips/mips_min_sopc_tb.v|
+!i113 0
+R8
+vopenmips
+R9
+!i10b 1
+!s100 j9cVZi?UAa`mn<bidD@;m2
+IBD7anX6U6BVGFMeD475hL2
+R4
+R5
+w1396145314
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192799.919000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips.v|
+!i113 0
+R8
+vopenmips_min_sopc
+Z11 !s110 1511192800
+!i10b 1
+!s100 a=Dg`CKz<0<I[ng:XO;=@1
+I]bnmDbLeWE5KW_mP;XJC>3
+R4
+R5
+w1396146218
+8C:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\openmips_min_sopc.v
+FC:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\openmips_min_sopc.v
+L0 40
+R7
+r1
+!s85 0
+31
+!s108 1511192800.045000
+!s107 defines.v|C:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\openmips_min_sopc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\shaoz\Desktop\QML\自己动手写CPU\自己动手写CPU\Code\Chapter4\openmips_min_sopc.v|
+!i113 0
+R8
+vopenmips_min_sopc_tb
+R11
+!i10b 1
+!s100 BLj^i[S4LQiWZW>gToWQU0
+Io7jZY>VYQX26An[RhFCRZ1
+R4
+R5
+w1393082256
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips_min_sopc_tb.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips_min_sopc_tb.v
+L0 36
+R7
+r1
+!s85 0
+31
+!s108 1511192800.173000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips_min_sopc_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/openmips_min_sopc_tb.v|
+!i113 0
+R8
+vpc_reg
+R11
+!i10b 1
+!s100 WXjmNNI4=HbG<_SjMELX`0
+Ilg]0R7o;_jMO]<nCTFZ;l2
+R4
+R5
+w1396144420
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/pc_reg.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/pc_reg.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192800.317000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/pc_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/pc_reg.v|
+!i113 0
+R8
+vregfile
+R11
+!i10b 1
+!s100 1EhAjhmmdzi<zQL05>l@Y2
+IhRaf`4GZb?D2]XI_SWS<>1
+R4
+R5
+w1391781824
+8C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/regfile.v
+FC:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/regfile.v
+R6
+R7
+r1
+!s85 0
+31
+!s108 1511192800.458000
+!s107 defines.v|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shaoz/Desktop/QML/自己动手写CPU/自己动手写CPU/Code/Chapter4/regfile.v|
+!i113 0
+R8
